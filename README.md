@@ -1,10 +1,11 @@
- Bike Sales Data Cleaning & Analysis — MS Excel Project
+# Bike Sales Data Cleaning & Analysis — MS Excel Project
 
 This is a beginner-friendly Excel project where I worked on a raw, unclean bike sales dataset. The goal was to clean the data, apply useful formulas, and create a summary report — all inside one Excel workbook.
 
 ---
 
-📂 What is Inside the Workbook
+
+# 📂 What is Inside the Workbook
 
 The workbook has **4 sheets**, each serving a different purpose:
 
@@ -25,7 +26,7 @@ The workbook has **4 sheets**, each serving a different purpose:
 
 ---
 
- Problems Found in the Raw Data
+# Problems Found in the Raw Data
 
 When I first opened the dataset, it had several issues:
 
@@ -39,7 +40,7 @@ When I first opened the dataset, it had several issues:
 
 ---
 
- 🧹 How I Cleaned the Data
+ # 🧹 How I Cleaned the Data
 
 I used the following Excel functions to fix the issues:
 
